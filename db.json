@@ -1,6 +1,6 @@
 {
-  "tendatable": [
-    { "id": 1, "food": "Rawon", "calory": 100,"nama":"oke", "ok": "ok","telp":"telp" }
+  "tendaList": [
+    { "id": 1, "alamat": "malang", "phone": 100,"lokasi":"malang", "imageUrl": "http://" }
   ]
 }
   
