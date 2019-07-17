@@ -1,13 +1,22 @@
 {
   "calories": 
-[
+
+ [
   {
     "id": 1,
-    "alamat": "malang",
-    "phone": 085,
-    "imageUrl": "k",
-    "lokasi": "malang"
-    
+    "food": "Rawon",
+    "calory": 100
+  },
+  {
+    "id": 2,
+    "food": "Gado-gado",
+    "calory": 100
+  },
+  {
+    "id": 3,
+    "food": "Indomie",
+    "calory": 100
   }
+
 ]
   
