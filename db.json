@@ -5,22 +5,9 @@
     "id": 1,
     "alamat": "malang",
     "phone": 085,
-    "imageUrl": "https://1.bp.blogspot.com/-YcGhm2gsEH0/XSWN4wfVDeI/AAAAAAAACXk/zJRaVr_myAEYTV8CRFnj3mrm4rIssyU2wCLcBGAs/s1600/tenda.jpg",
+    "imageUrl": "k",
     "lokasi": "malang"
     
-  },
-  {
-    "id": 2,
-    "alamat": "malang",
-    "phone": 085,
-    "imageUrl": "https://1.bp.blogspot.com/-YcGhm2gsEH0/XSWN4wfVDeI/AAAAAAAACXk/zJRaVr_myAEYTV8CRFnj3mrm4rIssyU2wCLcBGAs/s1600/tenda.jpg",
-    "lokasi": "malang"
-  },
-  {
-   "id": 3,
-    "alamat": "malang",
-    "phone": 085,
-    "imageUrl": "https://1.bp.blogspot.com/-YcGhm2gsEH0/XSWN4wfVDeI/AAAAAAAACXk/zJRaVr_myAEYTV8CRFnj3mrm4rIssyU2wCLcBGAs/s1600/tenda.jpg",
-    "lokasi": "malang"
   }
 ]
+  
